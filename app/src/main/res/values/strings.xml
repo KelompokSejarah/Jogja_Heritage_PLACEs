@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JHP</string>
+    <string name="isi">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aperiam aspernatur, atque cum deserunt eligendi laborum libero magnam, officia quaerat quasi ratione recusandae reprehenderit ullam voluptatem. Ad, consectetur, eius</string>
+    >
+
+    <array name="image_sport">
+        <item>@drawable/img_tugu</item>
+        <item>@drawable/img_benteng</item>
+        <item>@drawable/img_pindul</item>
+        <item>@drawable/img_tamansari</item>
+    </array>
+
+    <string-array name="wisata_titles">
+        <item>Tugu Jogja</item>
+        <item>Benteng Vanderbu</item>
+        <item>Goa Pindul</item>
+        <item>Taman Sari</item>
+    </string-array>
+
+</resources>
